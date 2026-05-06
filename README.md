@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 
 <!--
 **emilycaputi28/emilycaputi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
