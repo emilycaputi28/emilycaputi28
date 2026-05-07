@@ -1,6 +1,6 @@
-## Hi everyone 
------------------------------------------------------------------------------🔮------------------------------------------------------------------------------------
-<!--
+<p align="center">
+  <img src="header-img/header.gif" alt="Banner Animado" width="100%">
+</p>
 **emilycaputi28/emilycaputi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
