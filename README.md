@@ -22,3 +22,18 @@
 - 🌐 **HTML/CSS**
 - 📜 **JavaScript**
 - 🐍 **Python**
+
+<h3 align="center">📫 Contact me!</h3>
+
+<p align="center">
+  <a href="mailto:emilycaputi@gmail.com">
+    <img src="https://img.shields.io/badge/Personal%20Email-8000FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:emilylobato@edu.unifil.br">
+    <img src="https://img.shields.io/badge/UniFil%20Email-4B0082?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+    <a href="https://discord.com/users/emi_282828">
+    <img src="https://img.shields.io/badge/Discord-9A32CD?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
