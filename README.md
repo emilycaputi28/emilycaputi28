@@ -38,6 +38,6 @@
 </p>
 
 <p align="center">
-  <img src="imagens/final.gif" alt="Banner Animado Final" width="100%">
+  <img src="imagens/rodape.gif" alt="Banner Animado Final" width="100%">
 </p>
 
