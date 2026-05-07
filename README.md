@@ -4,7 +4,7 @@
 
 <p align="center">Hello, I'm <b>Emily Caputi</b>, a Computer Science student at UniFil, and I love discovering new things about programming.</p>
 
-<h3 align="center">✨About Me!</h3>
+<h2 align="center">✨About Me!</h2>
 
 <p align="center">I'm continually learning and researching to improve my development skills.</p>
 
@@ -16,14 +16,14 @@
 - 🌌 **Curiosity:** I love reading about everything.
 - 🏆 **Achievement:** State finalist in the **Agrinho Contest** (High School).
 
-<h3 align="center">🛠Languages!</h3>
+<h2 align="center">🛠Languages!</h2>
 
 - ☕ **Java**
 - 🌐 **HTML/CSS**
 - 📜 **JavaScript**
 - 🐍 **Python**
 
-<h3 align="center">📫 Contact me!</h3>
+<h2 align="center">📫 Contact me!</h2>
 
 <p align="center">
   <a href="mailto:emilycaputi@gmail.com">
@@ -45,7 +45,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilycaputi28&layout=compact&theme=dracula" alt="Top langs" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilycaputi28&theme=dracula" alt="GitHub streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilycaputi28&theme=tokyonight" alt="GitHub streak" />
     </td>
   </tr>
 </table>
