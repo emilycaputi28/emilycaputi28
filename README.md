@@ -12,7 +12,7 @@
 - 🎓 **Education:** Computer Science student at **UniFil**.
 - 🤖 **Learning Now:** Artificial Intelligence Specialist at **Alura**.
 - 📖 **Previous Courses:** Web Development (HTML/CSS) and Logic at **Alura**.
-- 📚 **Interests:** Logic programming, reading, English and music.
+- 📚 **Interests:** Logic programming, reading, English and music. 
 - 🌌 **Curiosity:** I love reading about everything.
 - 🏆 **Achievement:** State finalist in the **Agrinho Contest** (High School).
 
@@ -22,6 +22,19 @@
 - 🌐 **HTML/CSS**
 - 📜 **JavaScript**
 - 🐍 **Python**
+
+<h2 align="center">💻 Most used programming languages!</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilycaputi28&layout=compact&theme=dracula" alt="Top langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilycaputi28&theme=tokyonight" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">📫 Contact me!</h2>
 
@@ -36,19 +49,6 @@
     <img src="https://img.shields.io/badge/Discord-9A32CD?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
-<h2 align="center">💻 Most used programming languages!</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilycaputi28&layout=compact&theme=dracula" alt="Top langs" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilycaputi28&theme=tokyonight" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="imagens/rodape.gif" alt="Banner Animado Final" width="100%">
