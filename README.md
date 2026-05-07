@@ -37,6 +37,19 @@
   </a>
 </p>
 
+<h2 align="center">💻 Most used programming languages!</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilycaputi28&layout=compact&theme=dracula" alt="Top langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilycaputi28&theme=dracula" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="imagens/rodape.gif" alt="Banner Animado Final" width="100%">
 </p>
