@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header-img/header.gif" alt="Banner Animado" width="100%">
+  <img src="imagens/header.gif" alt="Banner Animado" width="100%">
 </p>
 
 <p align="center">Hello, I'm <b>Emily Caputi</b>, a Computer Science student at UniFil, and I love discovering new things about programming.</p>
@@ -35,5 +35,9 @@
     <a href="https://discord.com/users/emi_282828">
     <img src="https://img.shields.io/badge/Discord-9A32CD?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="imagens/final.gif" alt="Banner Animado Final" width="100%">
 </p>
 
