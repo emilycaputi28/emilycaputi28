@@ -42,18 +42,20 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="800">
-      <img src="imagens/agrinho-1.gif" alt="Banner Animado, site agrinho" width="90%">
-      <br>
-      <b>"Agrinho: do campo a cidade colhendo oportunidades"</b>
-      <br>
+    <td align="center" width="50%">
+      <a href="https://github.com/emilycaputi28/Agrinho-do-campo-a-cidade-colhendo-oportunidades">
+        <img src="imagens/agrinho-1.gif" alt="Site Agrinho 1" width="90%">
+        <br>
+        <b>"Agrinho: do campo a cidade colhendo oportunidades"</b>
+      </a>
       <p>State finalist project, all encoded and drawn by me.</p>
     </td>
-    <td align="center" width="800">
-      <img src="imagens/agrinho-2.gif" alt="Banner Animado, site agrinho" width="90%">
-      <br>
-      <b>"Agrinho:festejando a conexão campo e cidade"</b>
-      <br>
+    <td align="center" width="50%">
+      <a href="https://github.com/emilycaputi28/Agrinho-festejando-a-conex-o-campo-e-cidade">
+        <img src="imagens/agrinho-2.gif" alt="Site Agrinho 2" width="90%">
+        <br>
+        <b>"Agrinho: festejando a conexão campo e cidade"</b>
+      </a>
       <p>My favorite project, designed and programmed by me.</p>
     </td>
   </tr>
@@ -76,7 +78,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilycaputi28&layout=compact&theme=dracula" alt="Top langs" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilycaputi28&layout=compact&theme=tokyonight" alt="Top langs" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilycaputi28&theme=tokyonight" alt="GitHub streak" />
