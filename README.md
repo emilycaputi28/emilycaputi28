@@ -55,8 +55,8 @@
 <table align="center">
   <tr>
     <td align="center" width="90%">
-      <a href="https://github.com/emilycaputi28/Agrinho-do-campo-a-cidade-colhendo-oportunidades">
-        <img src="imagens/agrinho-1.gif" alt="Site Agrinho 1" width="50%">
+      <a href="https://portfolio-novo-beta.vercel.app/">
+        <img src="imagens/portfolio.gif" alt="Portfolio" width="50%">
       </a>
       <br>
       <b>Click to see more of my projects 🖱️</b>
@@ -81,12 +81,9 @@
 </table>
 
 <br>
-<br>
 
 <h2 align="center">📫 Contact me!</h2>
-
 <br>
-
 <p align="center">
   <a href="mailto:emilycaputi@gmail.com">
     <img src="https://img.shields.io/badge/Personal%20Email-8000FF?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -99,7 +96,6 @@
   </a>
 </p>
 
-<br>
 <br>
 <p align="center">
   <img src="imagens/rodape.gif" alt="Banner Animado Final" width="100%">
