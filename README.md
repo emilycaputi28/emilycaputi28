@@ -38,8 +38,8 @@
         <img src="imagens/agrinho-1.gif" alt="Site Agrinho 1" width="90%">
       </a>
       <br>
-      <b>"Agrinho: do campo a cidade colhendo oportunidades"</b>
-      <p>🥇State finalist project, all encoded and drawn by me.</p>
+      <b>🥇"Agrinho: do campo a cidade colhendo oportunidades"</b>
+      <p>State finalist project, all encoded and drawn by me.</p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/emilycaputi28/Agrinho-festejando-a-conex-o-campo-e-cidade">
