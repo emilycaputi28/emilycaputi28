@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">Hello, I'm <b>Emily Caputi</b>, a Computer Science student at UniFil, and I love discovering new things about programming.</p>
-<br><br>
+<br>
 
 <h2 align="center">✨About Me!</h2>
 <p align="center">I'm continually learning and researching to improve my development skills.</p>
@@ -27,7 +27,7 @@
 - 📜 **JavaScript**
 - 🐍 **Python**
 
-<br><br>
+<br>
 
 <h2 align="center">📂Best Projects!</h2>
 <br>
@@ -51,7 +51,7 @@
     </td>
   </tr>
 </table>
-<br><br>
+<br>
 
 <h2 align="center">🌌My portfolio!</h2>
 <br>
@@ -67,7 +67,7 @@
     </td>
   </tr>
 </table>
-<br><br>
+<br>
 
 <h2 align="center">💻 Most used programming languages!</h2>
 
