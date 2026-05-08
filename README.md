@@ -4,9 +4,14 @@
 
 <p align="center">Hello, I'm <b>Emily Caputi</b>, a Computer Science student at UniFil, and I love discovering new things about programming.</p>
 
+<br>
+<br>
+
 <h2 align="center">✨About Me!</h2>
 
 <p align="center">I'm continually learning and researching to improve my development skills.</p>
+
+<br>
 
 - 📍 **Location**: Brazil.
 - 🎓 **Education:** Computer Science student at **UniFil**.
@@ -16,14 +21,39 @@
 - 🌌 **Curiosity:** I love reading about everything.
 - 🏆 **Achievement:** State finalist in the **Agrinho Contest** (High School).
 
+<br>
+<br>
+
 <h2 align="center">🛠Languages!</h2>
+
+<br>
 
 - ☕ **Java**
 - 🌐 **HTML/CSS**
 - 📜 **JavaScript**
 - 🐍 **Python**
 
+<br>
+<br>
+
+<h2 align="center">📂Best Projects!</h2>
+
+<br>
+
+
+<br>
+<br>
+
+<h2 align="center">👋My portfolio!</h2>
+
+<br>
+
+<br>
+<br>
+
 <h2 align="center">💻 Most used programming languages!</h2>
+
+<br>
 
 <table align="center">
   <tr>
@@ -36,7 +66,12 @@
   </tr>
 </table>
 
+<br>
+<br>
+
 <h2 align="center">📫 Contact me!</h2>
+
+<br>
 
 <p align="center">
   <a href="mailto:emilycaputi@gmail.com">
@@ -50,6 +85,8 @@
   </a>
 </p>
 
+<br>
+<br>
 <p align="center">
   <img src="imagens/rodape.gif" alt="Banner Animado Final" width="100%">
 </p>
