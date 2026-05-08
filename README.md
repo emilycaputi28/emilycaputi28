@@ -42,16 +42,18 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="600">
-      <img src="imagens/header.gif" alt="Banner Animado" width="80%">
+    <td align="center" width="800">
+      <img src="imagens/agrinho-1.gif" alt="Banner Animado, site agrinho" width="90%">
       <br>
       <b>"Agrinho: do campo a cidade colhendo oportunidades"</b>
+      <br>
       <p>State finalist project, all encoded and drawn by me.</p>
     </td>
-    <td align="center" width="600">
-      <img src="imagens/header.gif" alt="Banner Animado" width="80%">
+    <td align="center" width="800">
+      <img src="imagens/agrinho-2.gif" alt="Banner Animado, site agrinho" width="90%">
       <br>
       <b>"Agrinho:festejando a conexão campo e cidade"</b>
+      <br>
       <p>My favorite project, designed and programmed by me.</p>
     </td>
   </tr>
