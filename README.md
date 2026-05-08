@@ -3,16 +3,11 @@
 </p>
 
 <p align="center">Hello, I'm <b>Emily Caputi</b>, a Computer Science student at UniFil, and I love discovering new things about programming.</p>
-
-<br>
-<br>
+<br><br>
 
 <h2 align="center">✨About Me!</h2>
-
 <p align="center">I'm continually learning and researching to improve my development skills.</p>
-
 <br>
-
 - 📍 **Location**: Brazil.
 - 🎓 **Education:** Computer Science student at **UniFil**.
 - 🤖 **Learning Now:** Artificial Intelligence Specialist at **Alura**.
@@ -21,25 +16,18 @@
 - 🌌 **Curiosity:** I love reading about everything.
 - 🏆 **Achievement:** State finalist in the **Agrinho Contest** (High School).
 
-<br>
-<br>
+<br><br>
 
 <h2 align="center">🛠Languages!</h2>
-
 <br>
-
 - ☕ **Java**
 - 🌐 **HTML/CSS**
 - 📜 **JavaScript**
 - 🐍 **Python**
-
-<br>
-<br>
+<br><br>
 
 <h2 align="center">📂Best Projects!</h2>
-
 <br>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -48,28 +36,34 @@
       </a>
       <br>
       <b>"Agrinho: do campo a cidade colhendo oportunidades"</b>
-      <p>State finalist project, all encoded and drawn by me.</p>
+      <p>🥇State finalist project, all encoded and drawn by me.</p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/emilycaputi28/Agrinho-festejando-a-conex-o-campo-e-cidade">
         <img src="imagens/agrinho-2.gif" alt="Site Agrinho 2" width="90%">
       </a>
         <br>
-        <b>"Agrinho: festejando a conexão campo e cidade"</b>
+        <b>🌟"Agrinho: festejando a conexão campo e cidade"</b>
       <p>My favorite project, designed and programmed by me.</p>
     </td>
   </tr>
 </table>
+<br><br>
 
+<h2 align="center">🌌My portfolio!</h2>
 <br>
-<br>
-
-<h2 align="center">👋My portfolio!</h2>
-
-<br>
-
-<br>
-<br>
+<table align="center">
+  <tr>
+    <td align="center" width="90%">
+      <a href="https://github.com/emilycaputi28/Agrinho-do-campo-a-cidade-colhendo-oportunidades">
+        <img src="imagens/agrinho-1.gif" alt="Site Agrinho 1" width="50%">
+      </a>
+      <br>
+      <b>Click to see more of my projects 🖱️</b>
+    </td>
+  </tr>
+</table>
+<br><br>
 
 <h2 align="center">💻 Most used programming languages!</h2>
 
