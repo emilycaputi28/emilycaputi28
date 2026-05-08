@@ -8,6 +8,7 @@
 <h2 align="center">✨About Me!</h2>
 <p align="center">I'm continually learning and researching to improve my development skills.</p>
 <br>
+
 - 📍 **Location**: Brazil.
 - 🎓 **Education:** Computer Science student at **UniFil**.
 - 🤖 **Learning Now:** Artificial Intelligence Specialist at **Alura**.
@@ -20,10 +21,12 @@
 
 <h2 align="center">🛠Languages!</h2>
 <br>
+
 - ☕ **Java**
 - 🌐 **HTML/CSS**
 - 📜 **JavaScript**
 - 🐍 **Python**
+
 <br><br>
 
 <h2 align="center">📂Best Projects!</h2>
@@ -54,9 +57,10 @@
 <br>
 <table align="center">
   <tr>
-    <td align="center" width="90%">
+    <td align="center" width="500px">
+      <br>
       <a href="https://portfolio-novo-beta.vercel.app/">
-        <img src="imagens/portfolio.gif" alt="Portfolio" width="50%">
+        <img src="imagens/portfolio.gif" alt="Portfolio" width="90%">
       </a>
       <br>
       <b>Click to see more of my projects 🖱️</b>
